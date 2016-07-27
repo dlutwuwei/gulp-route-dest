@@ -1,11 +1,11 @@
 [![NPM](https://nodei.co/npm/gulp-route-dest.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gulp-route-dest/)
-The 
 
 #How to use
 `npm install gulp-route-dest`
 
 Use routes to pipe files into different directory
-> * means the default directory otherwise the dest path is target
+
+
 ```
 var dest = require('gulp-route-dest');
 
@@ -22,7 +22,9 @@ gulp.task('test', function (params) {
         }));
 })
 ```
-Use it the same as gulp.dest
+> '*' in routes means the default directory otherwise define the file dest path.
+
+Or you can use it the same as gulp.dest
 ```
 //dump all files to test directory
 gulp.task('test', function (params) {

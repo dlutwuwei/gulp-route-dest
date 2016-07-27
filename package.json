@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      {
+        "name": "gulp-route-dest",
+        "raw": "gulp-route-dest",
+        "rawSpec": "",
+        "scope": null,
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/wuwei/i18n_web/fe"
+    ]
+  ],
+  "_from": "gulp-route-dest@latest",
+  "_id": "gulp-route-dest@1.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gulp-route-dest",
+  "_nodeVersion": "6.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/gulp-route-dest-1.0.1.tgz_1468320221098_0.13648792868480086"
+  },
+  "_npmUser": {
+    "email": "dlutwuwei@qq.com",
+    "name": "dlutwuwei"
+  },
+  "_npmVersion": "3.9.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gulp-route-dest",
+    "raw": "gulp-route-dest",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "file:gulp-route-dest",
+  "_shasum": "a9a05d1f1bdbe0dc7910fb23cabaf33567d9ef2e",
+  "_shrinkwrap": null,
+  "_spec": "gulp-route-dest",
+  "_where": "/Users/wuwei/i18n_web/fe",
+  "author": {
+    "name": "dlutwuwei"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "mkdirp": "^0.5.1",
+    "through2": "^2.0.1"
+  },
+  "description": "Pipe file to different path in gulp in routes",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a9a05d1f1bdbe0dc7910fb23cabaf33567d9ef2e",
+    "tarball": "https://registry.npmjs.org/gulp-route-dest/-/gulp-route-dest-1.0.1.tgz"
+  },
+  "keywords": [
+    "gulp",
+    "dest",
+    "file"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "dlutwuwei@qq.com",
+      "name": "dlutwuwei"
+    }
+  ],
+  "name": "gulp-route-dest",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}

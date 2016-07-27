@@ -66,6 +66,10 @@
   ],
   "license": "ISC",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rebelmail/gulp-route-dest.git"
+  },
   "maintainers": [
     {
       "email": "dlutwuwei@qq.com",
@@ -78,5 +82,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
